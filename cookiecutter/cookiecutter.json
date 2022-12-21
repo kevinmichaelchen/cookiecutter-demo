@@ -1,0 +1,8 @@
+{
+  "project_name": "mycoolproject",
+  "full_name": "Kevin Chen",
+  "email": "kevinmichaelchen@gmail.com",
+  "project_short_description": "A simple project.",
+  "project_type": ["service"],
+  "use_git": "y"
+}
